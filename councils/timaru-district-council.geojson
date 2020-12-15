@@ -4,7 +4,6 @@
       "type": "Feature",
       "properties": {
         "title": "Saltwater Creek Walkway",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -2105,7 +2104,6 @@
       "type": "Feature",
       "properties": {
         "title": "River area - Geraldine",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -2886,7 +2884,6 @@
       "type": "Feature",
       "properties": {
         "title": "Ashbury Park Sportsfields",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -2991,7 +2988,6 @@
       "type": "Feature",
       "properties": {
         "title": "Redruth Park",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -3088,7 +3084,6 @@
       "type": "Feature",
       "properties": {
         "title": "South Beach",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -3569,9 +3564,8 @@
       "type": "Feature",
       "properties": {
         "title": "Timaru (Leckie Street) Dog Park",
-        "description": "Dog exercise area. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dog exercise area. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -3614,7 +3608,6 @@
       "type": "Feature",
       "properties": {
         "title": "Stafford Street - Sefton to North Street",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -4879,7 +4872,6 @@
       "type": "Feature",
       "properties": {
         "title": "The Royal Arcade",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -4927,23 +4919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "37c4c594d3c7295989561003872e2631"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Temuka Motor Camp",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -5160,7 +5136,6 @@
       "type": "Feature",
       "properties": {
         "title": "River areas - Pleasant Point",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -6377,7 +6352,6 @@
       "type": "Feature",
       "properties": {
         "title": "Raukapuka Reserve playing fields",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited."
       },
@@ -6430,9 +6404,8 @@
       "type": "Feature",
       "properties": {
         "title": "Temuka Domain",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "rules": "Dogs prohibited at all times."
+        "Rules": "Dogs prohibited at all times."
       },
       "geometry": {
         "coordinates": [
@@ -6663,7 +6636,6 @@
       "type": "Feature",
       "properties": {
         "title": "Saltwater Creek Walkway",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -7396,9 +7368,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ashbury Park",
-        "description": "Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -7520,25 +7491,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "559a07bce83a055c00f63aaec815a066"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Scenic Reserve (Centennial Park)",
-        "description": "Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -8353,7 +8308,6 @@
       "type": "Feature",
       "properties": {
         "title": "West End Park",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -8406,7 +8360,6 @@
       "type": "Feature",
       "properties": {
         "title": "Caroline Bay",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -8654,23 +8607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "6a03db25d3e137a7cd6c58415b59bfd5"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Saltwater Creek Walkway",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -11707,7 +11644,6 @@
       "type": "Feature",
       "properties": {
         "title": "Todd Park",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -11803,25 +11739,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "83be41146a926791ee662c9c0551508f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Pleasant Point Domain (Fire Brigade area)",
-        "description": "Dogs prohibited from all sports surfaces.Only available for use when not in use by Fire Brigade.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces.Only available for use when not in use by Fire Brigade."
       },
       "geometry": {
         "coordinates": [
@@ -11872,9 +11792,8 @@
       "type": "Feature",
       "properties": {
         "title": "West End Park",
-        "description": "Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -12053,7 +11972,6 @@
       "type": "Feature",
       "properties": {
         "title": "Claremont Bush Reserve",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -12142,9 +12060,8 @@
       "type": "Feature",
       "properties": {
         "title": "Caroline Bay beach tidal area",
-        "description": "Dogs prohibited from 1 October to 31 March inclusive each year.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash between wildlife exclusion signs from 1 April to 30 September inclusive. each year."
+        "Rules": "Dogs allowed off-leash between wildlife exclusion signs from 1 April to 30 September inclusive. each year. Dogs prohibited from 1 October to 31 March inclusive each year."
       },
       "geometry": {
         "coordinates": [
@@ -12275,7 +12192,6 @@
       "type": "Feature",
       "properties": {
         "title": "Waimataitai Beach",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -12459,23 +12375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "aff09888a79e522cd87b90dad0398099"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Aorangi Park",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -12696,7 +12596,6 @@
       "type": "Feature",
       "properties": {
         "title": "Temuka River Bed",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -13953,7 +13852,6 @@
       "type": "Feature",
       "properties": {
         "title": "Otipua Beach",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -14138,7 +14036,6 @@
       "type": "Feature",
       "properties": {
         "title": "Marchwiel Park Sportsfield",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -14175,7 +14072,6 @@
       "type": "Feature",
       "properties": {
         "title": "Geraldine Domain",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -14496,7 +14392,6 @@
       "type": "Feature",
       "properties": {
         "title": "Geraldine Fire Station Reserve",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -14585,7 +14480,6 @@
       "type": "Feature",
       "properties": {
         "title": "Otipua Wetlands",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -14686,7 +14580,6 @@
       "type": "Feature",
       "properties": {
         "title": "Geraldine Domain",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -14878,25 +14771,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "cd02aa8b5a7b409dd8c9c92a5400fd15"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Marchwiel Park",
-        "description": "Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -15121,7 +14998,6 @@
       "type": "Feature",
       "properties": {
         "title": "Geraldine Motor Camp",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
@@ -15218,7 +15094,6 @@
       "type": "Feature",
       "properties": {
         "title": "Pleasant Point Camping Ground",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited,"
       },
@@ -15354,23 +15229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Columbus Park",
-        "description": "A large park in Chicago's Austin neighborhood"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.769775,
-          41.873683
-        ],
-        "type": "Point"
-      },
-      "id": "d2a1af1906651cfeb6a9066bf0f22b71"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Domain Avenue tree walkway (Rayner St - Murray St)",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs allowed off-leash."
       },
@@ -15507,9 +15366,8 @@
       "type": "Feature",
       "properties": {
         "title": "Southern part of Motor Camp and part Torepe Fields",
-        "description": "Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds.",
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
-        "Rules": "Dogs allowed off-leash."
+        "Rules": "Dogs allowed off-leash. Dogs prohibited from all sports surfaces and from within 10 metres of playgrounds."
       },
       "geometry": {
         "coordinates": [
@@ -15784,7 +15642,6 @@
       "type": "Feature",
       "properties": {
         "title": "Geraldine Domain",
-        "description": null,
         "url": "http://www.timaru.govt.nz/services/environment/dogs-and-animals/dogs/dog-exercise-areas",
         "Rules": "Dogs prohibited at all times."
       },
